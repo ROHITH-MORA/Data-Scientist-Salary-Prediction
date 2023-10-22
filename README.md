@@ -26,11 +26,11 @@
 • Feature Scaling using **StandardScalar**
 
 ## Model Building and Evaluation
-Metric: Negative Root Mean Squared Error (NRMSE)<br/>
-• Multiple Linear Regression: -27.523<br/>
-• Lasso Regression: -27.993<br/>
-• **Random Forest: -17.637**<br/>
-• Gradient Boosting: -24.429<br/>
-• Voting (Random Forest + Gradient Boosting): -19.136<br/>
+Metric: Negative Root Mean Squared Error (RMSE)<br/>
+• Multiple Linear Regression: 27.523<br/>
+• Lasso Regression: 27.993<br/>
+• **Random Forest: 17.637**<br/>
+• Gradient Boosting: 24.429<br/>
+• Voting (Random Forest + Gradient Boosting): 19.136<br/>
 _**Note: Evaluation scores are obtained using cross validation.**_
 
